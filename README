@@ -1,0 +1,13 @@
+= New Nico Lisp
+
+Not only watch a video but also evaluate Lisp forms!
+
+
+== How to use
+
+Visit http://www.nicovideo.jp/watch/sm13570088
+and write a Lisp form as a comment.
+The value of the form is displayed on the video.
+
+If you own videos at Nico Nico Douga,
+you can embed this Lisp interpreter in your videos.
